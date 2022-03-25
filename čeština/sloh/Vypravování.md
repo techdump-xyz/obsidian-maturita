@@ -21,8 +21,8 @@ děj
 
 ## Slohový přístup
 - vyprávěcí
-	- popisný
-	- úvahový
+	- popisný [[Popis]]
+	- úvahový [[Úvaha]]
 
 ## Kompozice
 - úvod (Kdy? Kde? Kdo?)

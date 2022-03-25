@@ -21,3 +21,16 @@
 - závěr -> shrnutí problému, hodnocení kladů a záporů, řešení...
 
 ## Jazykové prostředky
+- slovesa označující myšlenkové pochody (musíme uvážit)
+- hodnotící přívlastky
+- [[autorský plurál]]
+- [[řečnické figury]]
+- frazémy
+- kontrask krátkých úderných vět s dlouhými, vysvětlujícími souvětími
+- věty s významem příčiny, důsldku, podmínky
+- nekonečné výpovědi - apoziopeze
+
+# Úvahový text
+- prostěsdělovací -> prostá úvaha
+- prvky úvahy
+- možnost zakončení jiným způsobem	než jednoznačným závěrem
