@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "čeština/sloh/Popis děje.md",
+            "file": "čeština/sloh/Odborný článek.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "čeština/sloh/Popis děje.md",
+                "file": "čeština/sloh/Odborný článek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "194532691c8f6ce7",
   "lastOpenFiles": [
-    "čeština/sloh/Popis děje.md",
+    "čeština/sloh/Odborný článek.md",
+    "čeština/sloh/Článek.md",
+    "čeština/sloh/Článek s prvky reportáže.md",
+    "čeština/sloh/Článek s prvky fejetonu.md",
     "čeština/sloh/Popis.md",
+    "čeština/sloh/Popis děje.md",
     "čeština/sloh/Popis osoby.md",
     "čeština/sloh/Popis umělecký.md",
     "čeština/sloh/Popis pracovního postupu.md",
-    "čeština/sloh/Popis odborný.md",
-    "čeština/sloh/Popis prostý.md",
-    "čeština/sloh/Vypravování.md",
-    "čeština/sloh/Úvaha.md",
-    "autorský plurál.md"
+    "čeština/sloh/Popis odborný.md"
   ]
 }
