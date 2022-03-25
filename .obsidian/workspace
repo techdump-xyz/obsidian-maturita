@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "7b476585b81e2772",
+    "type": "split",
+    "children": [
+      {
+        "id": "194532691c8f6ce7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "čeština/sloh/Úvaha.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74834d216a223633",
+    "type": "split",
+    "children": [
+      {
+        "id": "b87b21eafbf5a528",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "615535f6f10c5f4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "43e2d77353981a22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ef28c1049b4aecd",
+    "type": "split",
+    "children": [
+      {
+        "id": "40eaf82749e4c192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63a11134586aaa04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "čeština/sloh/Úvaha.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "194532691c8f6ce7",
+  "lastOpenFiles": [
+    "čeština/sloh/Úvaha.md",
+    "čeština/sloh/Vypravování.md"
+  ]
+}
